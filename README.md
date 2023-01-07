@@ -1,3 +1,3 @@
 # Vostok-UILibrary
 
-![screenshot](https://user-images.githubusercontent.com/118057254/211143583-80045678-1b4d-4d36-ae0b-c4cef53a132e.png)
+![preview-gif](https://user-images.githubusercontent.com/118057254/211143679-b67bdb5a-dc9d-4ece-9c0a-04915dab1771.gif)
