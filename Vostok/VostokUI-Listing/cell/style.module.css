@@ -1,0 +1,66 @@
+
+
+@font-face {
+    font-family: 'Noto_Bold';
+    src: url('../../fonts/NotoSerifKhojki-Bold.ttf');
+}
+
+.tableCell {
+    opacity: 0.60;
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 26px;
+
+    font-family: 'Noto_Bold';
+    text-transform: uppercase;
+
+    padding-left: 15px;
+    padding-right: 15px;
+    
+    transition-duration: 400ms;
+    border-left: 2px solid transparent;
+
+}
+
+.tableCell:hover {
+    
+    opacity: 0.96;
+    transition-duration: 80ms;
+    background-color: rgba(218, 189, 171, 0.08);
+
+    border-left: 2px solid black;
+}
+
+.tableCell:active {
+
+    transition-duration: 0ms;
+    background-color: rgba(218, 189, 171, 0.15);
+}
+
+.separator {
+    opacity: 0.6;
+    margin-top: 2px;
+    margin-left: 6px;
+    margin-right: 6px;
+    background-image: url('../../textures/alphaNoise.png');
+    width: 100%;
+    height: 2px;
+}
+
+.leftTitle {
+    height: 16px;
+    white-space: nowrap;
+font-size: 16px;
+    line-height: 13px;
+}
+
+.index {
+    height: 16px;    
+    font-size: 16px;
+    line-height: 13px;
+}

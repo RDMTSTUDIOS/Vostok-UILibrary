@@ -1,0 +1,9 @@
+.table {
+    display: flex;
+    flex-direction: column;
+    width: 21vw;
+    max-width: 720px;
+    min-width: 480px;
+    user-select: none;
+    padding: 10px;
+}

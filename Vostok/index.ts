@@ -1,0 +1,1 @@
+export { default as UIVostokListing } from "./VostokUI-Listing";
